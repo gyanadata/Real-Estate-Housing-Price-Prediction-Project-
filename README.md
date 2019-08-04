@@ -13,3 +13,8 @@ Essentially, the company wants —
 
 # Packages Required 
 
+1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
+5. scikit learn
